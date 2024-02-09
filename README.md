@@ -14,11 +14,13 @@ feel free to check out my page [berkekanber.tech](https://www.berkekanber.tech)
   <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="33" alt="javascript logo"  />
   <img width="1"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" height="33" alt="figma logo"  />
-  <img width="1" />
+  <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" height="33" alt="tailwindcss logo"  />
+  <img width="1"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="33" alt="csharp logo"  />
   <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="33" alt="git logo"  />
+  <img width="1" />
+  <img src="https://icon.icepanel.io/Technology/svg/NPM.svg" height="33" alt="npm logo"  />
   <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="33" alt="vscode logo"  />
   <img width="1" />
