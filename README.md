@@ -13,6 +13,8 @@ I'm a first-year computer programming student at Izmir University of Economics. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="33" alt="css3 logo"  />
   <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="33" alt="javascript logo"  />
+   <img width="1"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" height="33"/>
   <img width="1"/>
   <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" height="33" alt="tailwindcss logo"  />
   <img width="1"/>
