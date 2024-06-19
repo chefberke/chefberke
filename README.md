@@ -1,6 +1,6 @@
 ## about me:
 Hello, I'm Berke! <br>
-I'm a first-year computer programming student at Izmir University of Economics. I love researching and learning new things, and here, I share the projects I've finally completed. If you're curious about my development process, feel free to take a look at the repositories.
+I'm a passionate Frontend Developer specializing in building applications with React. I enjoy working with various tools and technologies to create seamless user experiences. Currently, I'm a first-year Computer Programming student at Economy University. Always eager to learn and collaborate on exciting projects!
 
-[berkekanber.tech](https://www.berkekanber.tech)
+Check out my [website](https://www.berkekanber.tech) to see more of my work and connect with me!
 
