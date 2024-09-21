@@ -1,6 +1,5 @@
 ## about me:
-Hello, I'm Berke! <br>
 
-I'm a passionate Frontend Developer specializing in building applications with Next.js and React Native. I enjoy working with various tools and technologies to create seamless user experiences. Currently, I'm a second-year Computer Programming student at İzmir University of Economics. Always eager to learn and collaborate on exciting projects!
+Hi, I'm Berke, a Software Developer focused on building dynamic applications with Next.js and React Native. Currently in my second year of Computer Programming at İzmir University of Economics, I enjoy creating efficient and user-friendly digital solutions. I’m always exploring new technologies and excited to collaborate on projects that challenge and inspire.
 
 Check out my [website](https://berkekanber.vercel.app/) to see more of my work and connect with me.
